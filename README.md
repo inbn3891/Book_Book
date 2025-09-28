@@ -15,5 +15,9 @@ BookBook은 **책을 좋아하는 사람들을 위한 검색 및 개인 취향 �
 
 ## ERD
 
-
 <img width="1150" height="698" alt="392824054-b736d812-b424-4349-9453-fc2c94c995d1" src="https://github.com/user-attachments/assets/b92e6d75-ac19-444c-b9b3-fedf40905bfc" />
+
+---
+
+## 시연영상
+![Uploading 367664358-63b21e2e-2e8c-4ee1-8f11-d50249050d82.gif…]()
