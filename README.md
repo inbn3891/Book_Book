@@ -10,3 +10,10 @@ BookBook은 **책을 좋아하는 사람들을 위한 검색 및 개인 취향 �
 **Front-End:** HTML/CSS, JavaScript, JSP, Bootstrap, jQuery, Ajax  
 **Back-End:** Java, Spring, MyBatis, MySQL  
 **ETC:** Git, GitHub, Notion, Slack
+
+---
+
+## ERD
+
+
+<img width="1150" height="698" alt="392824054-b736d812-b424-4349-9453-fc2c94c995d1" src="https://github.com/user-attachments/assets/b92e6d75-ac19-444c-b9b3-fedf40905bfc" />
